@@ -1,1 +1,1 @@
-# Python-kalkula-ka
+# Python-kalkulačka
