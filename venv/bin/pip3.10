@@ -1,4 +1,4 @@
-#!/workspaces/Python-kalkulacka/venv/bin/python3
+#!/workspaces/Python-kalkulacka/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
